@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<storesprocess> 
+	<storeprocess>
+		<pid>sto00001</pid>
+		<state>s</state>
+		<type>s</type>
+		<version>6</version>
+		<du>s</du>
+	</storeprocess>
+<storeprocess>
+<pid>sto00002</pid>
+<state>p</state>
+<version>7</version>
+<du>p</du>
+</storeprocess>
+<storeprocess>
+<pid>sto00001</pid>
+<state>i</state>
+<version>5</version>
+<du>i</du>
+</storeprocess>
+</storesprocess>
